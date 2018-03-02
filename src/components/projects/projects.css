@@ -1,0 +1,12 @@
+.projectscard{
+    padding-top:30px;
+    min-height:calc(100vh - 552px);
+}
+.card-panel{
+    min-height:300px;
+}
+@media screen and (max-width: 852px) and (orientation : landscape){
+    .card-panel{
+        min-height:440px;
+    }
+}

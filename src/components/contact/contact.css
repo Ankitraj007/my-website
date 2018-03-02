@@ -1,0 +1,13 @@
+.contactcard{
+    margin-top:30px;
+    margin-bottom:30px ;
+    min-height:calc(100vh - 588px);
+}
+.phonenumbercard{
+    color:#ffffff;
+    text-decoration: underline;
+}
+.emailcard{
+    color:#ffffff;
+    text-decoration: underline;
+}

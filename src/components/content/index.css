@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Poiret';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../../fonts/PoiretOne-Regular.ttf') format('opentype')
+}
+@font-face {
+    font-family: 'SourceSansPro';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../../fonts/SourceSansPro-Light.otf') format('opentype')
+}
+@font-face {
+    font-family: 'SourceSansProExtraLight';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../../fonts/SourceSansPro-ExtraLight.otf') format('opentype')
+}
+
+.AboutMe{
+    font-family:SourceSansProExtraLight,sans-serif;
+    text-align: center;
+    font-size:24px;
+}
+.webdevtools{
+    word-wrap: break-word;
+}
+.contentmainpage{
+    min-height: calc(100vh - 570px);
+}
+.aboutme{
+    margin-top:50px;
+}

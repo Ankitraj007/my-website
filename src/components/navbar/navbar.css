@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Poiret';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../../fonts/PoiretOne-Regular.ttf') format('opentype')
+}
+@font-face {
+    font-family: 'SourceSansPro';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../../fonts/SourceSansPro-Light.otf') format('opentype')
+}
+
+
+.navbartop{
+    background-color: white;
+   box-shadow: unset;
+   
+}
+.navbartop li{
+    
+}
+
+.navbartop li a{
+    color:black;
+}
+.grid-example{
+    text-align:center;
+}
+.navbar-text{
+    font-family:"Poiret", sans-serif, Arial, serif;
+    font-size:24px;
+}
+.navbartopmainpage{
+    background-color:white;
+}
+nav .button-collapse i{
+    color:black;
+}
+.mymagecontainer{
+    text-align: center;
+}
+.myimage{
+    max-width:150px;
+    margin-top:30px;
+}
+.navbartop a.button-collapse{
+    margin:0;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%);
+}
+ul.navbartop{
+    position:absolute;
+    left:50%;
+    margin-right:-50%;
+    transform: translate(-50%);
+}
+@media screen and (orientation : portrait){
+   
+}
+@media screen and (orientation : landscape){
+   
+}
