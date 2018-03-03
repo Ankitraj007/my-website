@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Switch,HashRouter } from 'react-router-dom'
-import Index from './index'
+import Indexmain from './index'
 import Projects from './projects/projects'
 import Contact from './contact/contact'
 
@@ -10,7 +10,7 @@ export default class Main extends Component {
         return (
             <HashRouter>
                 <Switch>
-                    <Route exact path='/' component={Index} />
+                    <Route exact path='/' component={Indexmain} />
                     <Route path='/projects' component={Projects} />
                     <Route path='/contact' component={Contact} />
                 </Switch>

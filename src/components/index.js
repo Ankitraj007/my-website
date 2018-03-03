@@ -4,7 +4,7 @@ import Navbartop from './navbar/navbar'
 import Content from './content/index'
 import Footermain from './footer/footer'
 
-export default class Index extends Component{
+export default class Indexmain extends Component{
 
     render() {
         return (
