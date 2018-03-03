@@ -1,7 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "http://Ankitraj007.github.io/Ankitraj007.github.io",
+  "private": false,
   "dependencies": {
     "hammerjs": "^2.0.8",
     "react": "^16.2.0",
@@ -13,6 +14,8 @@
     "react-scrollchor": "^4.2.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
