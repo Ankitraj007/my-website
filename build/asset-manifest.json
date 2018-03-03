@@ -1,7 +1,10 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.ee7b2412.js",
-  "main.js.map": "static/js/main.ee7b2412.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.a87bd5e3.css",
+  "main.css.map": "static/css/main.a87bd5e3.css.map",
+  "main.js": "static/js/main.a08807a3.js",
+  "main.js.map": "static/js/main.a08807a3.js.map",
+  "static/media/PoiretOne-Regular.ttf": "static/media/PoiretOne-Regular.3b585e0e.ttf",
+  "static/media/SourceSansPro-ExtraLight.otf": "static/media/SourceSansPro-ExtraLight.d4882f17.otf",
+  "static/media/SourceSansPro-Light.otf": "static/media/SourceSansPro-Light.779f3bf4.otf",
+  "static/media/ankit.png": "static/media/ankit.38c6d7aa.png"
 }
