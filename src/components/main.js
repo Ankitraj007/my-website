@@ -10,7 +10,7 @@ export default class Main extends Component {
         return (
            <HashRouter>
                 <Switch>
-                    <Route to='/' component={Indexmain} />
+                    <Route exact path='/' component={Indexmain} />
                     <Route path='/projects' component={Projects} />
                     <Route path='/contact' component={Contact} />
                 </Switch>
