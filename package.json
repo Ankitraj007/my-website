@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://Ankitraj007.github.io/Ankitraj007.github.io",
-  "private": false,
+  "homepage": "http://Ankitraj007.github.io/my-website",
+  "private": true,
   "dependencies": {
     "hammerjs": "^2.0.8",
     "react": "^16.2.0",
