@@ -8,13 +8,13 @@ export default class Main extends Component {
 
     render() {
         return (
-            <HashRouter>
+           
                 <Switch>
                     <Route exact path='/' component={Indexmain} />
-                    <Route exact path='/my-website/#/projects' component={Projects} />
-                    <Route exact path='/my-website/#/contact' component={Contact} />
+                    <Route path='/projects' component={Projects} />
+                    <Route path='/contact' component={Contact} />
                 </Switch>
-            </HashRouter>
+           
         )
     }
 }

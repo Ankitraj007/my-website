@@ -9,5 +9,5 @@ import {
 
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Router><div><App /></div></Router>, document.getElementById('root'));
 
